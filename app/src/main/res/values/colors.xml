@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors (Vibrant but readable) -->
+    <color name="blue_200">#FF90CAF9</color> <!-- Light Blue -->
+    <color name="blue_500">#FF2196F3</color> <!-- Standard Blue -->
+    <color name="blue_700">#FF1976D2</color> <!-- Dark Blue -->
+
+    <!-- Secondary Colors (Calm and distinct) -->
+    <color name="green_200">#FFA5D6A7</color> <!-- Light Green -->
+    <color name="green_500">#FF4CAF50</color> <!-- Standard Green -->
+    <color name="green_700">#FF388E3C</color> <!-- Dark Green -->
+
+    <!-- Accent Colors (Vibrant but not overwhelming) -->
+    <color name="orange_200">#FFFFCC80</color> <!-- Light Orange -->
+    <color name="orange_500">#FFFF9800</color> <!-- Standard Orange -->
+    <color name="orange_700">#FFEF6C00</color> <!-- Dark Orange -->
+
+    <!-- Neutrals (For good contrast and readability) -->
+    <color name="gray_200">#FFEEEEEE</color> <!-- Light Gray -->
+    <color name="gray_500">#FF9E9E9E</color> <!-- Medium Gray -->
+    <color name="gray_700">#FF616161</color> <!-- Dark Gray -->
+
+    <color name="black">#FF000000</color> <!-- Black for contrast -->
+    <color name="white">#FFFFFFFF</color> <!-- White for clarity -->
+</resources>
