@@ -65,14 +65,14 @@ Getting Started
 ---------------
 
 Prerequisites
-.............
+
 Android Studio Hedgehog or newer
 Android Emulator or Device with Camera
 Java 8+
 
 
 Build & Run
-...........
+
 Clone the repository
 Open the project in Android Studio
 Connect a device or launch an emulator
